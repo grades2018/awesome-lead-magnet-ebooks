@@ -107,6 +107,7 @@ Segmenting readers so each one gets the right guide.
 - [Awesome KDP AI Tools](https://github.com/grades2018/awesome-kdp-ai-tools) - AI tools for Amazon KDP and self-publishing authors.
 - [Awesome AI Novel Editors](https://github.com/grades2018/awesome-ai-novel-editors) - Manuscript rewrite, line editing, and critique for novels.
 - [Awesome Memoir Writing Tools](https://github.com/grades2018/awesome-memoir-writing-tools) - Turning memories and interviews into a finished memoir.
+- [Awesome Markdown to Book](https://github.com/grades2018/awesome-markdown-to-book) - Building EPUB and PDF ebooks from Markdown files.
 
 ## Contributing
 
