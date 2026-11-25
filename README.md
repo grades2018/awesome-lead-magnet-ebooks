@@ -112,3 +112,5 @@ Segmenting readers so each one gets the right guide.
 ## Contributing
 
 PRs welcome, see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries relevant to creating and delivering lead magnet ebooks, with official links and one-line blurbs.
+
+If this list is useful to you, a star helps other writers find it.
